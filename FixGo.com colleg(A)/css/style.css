@@ -1,0 +1,144 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.Navigation{
+    background-color:#00ffff;
+    padding:15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Navigation a{
+    text-decoration:none;
+    font-size:20px;
+    margin:20px;
+    color:rgb(6, 6, 6);
+}
+.banertext a{
+    font-size: 24px;
+    width:5%;
+}
+.banertext{
+    background-image: url(baer2.png);
+    background-repeat: no-repeat;
+    height: 495px;
+    background-size: cover;
+    padding:7%;
+    font-size:25px; 
+}
+.contactclf{
+    justify-content: space-between;
+    display: flex;
+    font-size: 18px;
+}
+.line2{
+justify-content: space-between;
+}
+.img4{
+    justify-content: space-between;
+    display: flex;
+    font-size: 20px;
+}
+.righttext p{
+    font-size: 28px;
+    padding: 25px;
+}
+.img1{
+    padding:20px;
+    justify-content:space-between;
+    display:flex;
+}
+.right1{
+    width:65%;
+}
+.img2{
+    padding:10px;
+    justify-content:space-between;
+    display:flex;
+}
+.right2{
+    width:25%;
+}
+.left2{
+    font-size: 17px;
+}
+.img3{
+    padding:20px;
+    justify-content:space-between;
+    display:flex;
+}
+.right3{
+    width:70%;
+}
+.Navigation2{
+    background-color:#1a94a2;
+    padding:55px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Navigation2,a{
+    text-decoration:none;
+    font-size:21px;
+}
+.applogo{
+    background-color:#1a94a2;
+}
+.applogo,a{
+    padding: 9px;
+}
+.service{
+    justify-content: space-around;
+    display: flex;
+    margin-top: 25px;
+    text-align: center;
+    font-size: 19px;
+}
+.bye a{
+    font-size:17px;
+}
+.profile{
+    display: flex;
+    justify-content: space-between;
+}
+.profile1{
+    display: flex;
+    justify-content: space-between;
+}
+.profiel2{
+    display: flex;
+    justify-content: space-between;
+}
+.profiel3{
+    display: flex;
+    justify-content: space-between;
+}
+
+.loing {
+    font-size: 25px;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+.from {
+    font-size: 30px;
+    width: 620px;
+    height: 500px;
+}
+.Loginmeain,input{
+    font-size: 90%
+}
+.Loginmeain,button{
+    font-size: 20px;
+}
+.from,textarea{
+    font-size: 25px;
+}
+.from td{
+    padding: 5%;
+}
+.contact{
+    padding:1%;
+}
